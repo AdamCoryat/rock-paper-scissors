@@ -1,0 +1,14 @@
+body{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main{
+  flex-grow: 1;
+}
+
+.picture-size{
+  max-width: 200px;
+  padding: 3em;
+}
